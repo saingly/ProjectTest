@@ -13,6 +13,8 @@ namespace ProjectGIT
             Console.Write(myname);
             string myUserName ="tyhor";
             Console.Write(myUserName);
+
+            byte myAge = 24;
         }
     }
 }
