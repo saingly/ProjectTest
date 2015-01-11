@@ -9,9 +9,16 @@ namespace ProjectGIT
     {
         static void Main(string[] args)
         {
+            //My Name
             string myname = "Saingly";
             Console.Write(myname);
-            // New Code Add
+
+
+           //My Age
+            byte age = 24;
+            Console.WriteLine(age);
+
+            // Read
             Console.Read();
         }
     }
