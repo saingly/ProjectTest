@@ -33,6 +33,10 @@ namespace ProjectGIT
             string adminName = "saingly";
             Console.WriteLine(adminName);
 
+            // using function with class
+            Class1 cl1 = new Class1();
+            Console.WriteLine(cl1.userName(adminName));
+
         
 
            
