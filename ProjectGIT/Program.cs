@@ -9,10 +9,10 @@ namespace ProjectGIT
     {
         static void Main(string[] args)
         {
+            //My Name
             string myname = "Saingly";
             Console.Write(myname);
-            //Read Line
-            Console.ReadLine();
+
         }
     }
 }
