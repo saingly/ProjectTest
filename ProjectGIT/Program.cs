@@ -12,7 +12,11 @@ namespace ProjectGIT
          // saingly7 code
             string nameA = "saingly7";
             Console.WriteLine(nameA);
-            //
+           
+            // admin add his age
+            byte adminAge = 24;
+            Console.WriteLine(adminAge);
+
 
         }
     }
