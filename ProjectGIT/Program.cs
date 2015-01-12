@@ -18,6 +18,10 @@ namespace ProjectGIT
             string adminName = "saingly";
             Console.WriteLine(adminName);
 
+            //saingly7 add his age
+            byte saingly7Age = 23;
+            Console.WriteLine(saingly7Age);
+
 
         }
     }
