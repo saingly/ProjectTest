@@ -9,10 +9,19 @@ namespace ProjectGIT
     {
         static void Main(string[] args)
         {
-         // saingly7 code
+            /*-------Saingly7-------*/
+
+           // saingly7 code
             string nameA = "saingly7";
             Console.WriteLine(nameA);
+
+            //saingly7 add his age
+            byte saingly7Age = 23;
+            Console.WriteLine(saingly7Age);
            
+
+            /*-------Admin---------*/
+
             // admin add his age
             byte adminAge = 24;
             Console.WriteLine(adminAge);
@@ -22,9 +31,9 @@ namespace ProjectGIT
             string adminName = "saingly";
             Console.WriteLine(adminName);
 
-            //saingly7 add his age
-            byte saingly7Age = 23;
-            Console.WriteLine(saingly7Age);
+        
+
+           
 
             //saingly7 comment
 
