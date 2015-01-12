@@ -13,6 +13,10 @@ namespace ProjectGIT
             string nameA = "saingly7";
             Console.WriteLine(nameA);
 
+            // add admin name
+            string adminName = "saingly";
+            Console.WriteLine(adminName);
+
         }
     }
 }
