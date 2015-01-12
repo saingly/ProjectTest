@@ -18,6 +18,11 @@ namespace ProjectGIT
             Console.WriteLine(adminAge);
 
 
+            // add admin name
+            string adminName = "saingly";
+            Console.WriteLine(adminName);
+
+
         }
     }
 }
