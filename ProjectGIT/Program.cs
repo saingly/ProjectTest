@@ -12,6 +12,7 @@ namespace ProjectGIT
          // saingly7 code
             string nameA = "saingly7";
             Console.WriteLine(nameA);
+            //
 
             // add admin name
             string adminName = "saingly";
