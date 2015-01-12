@@ -8,6 +8,12 @@ namespace ProjectGIT
     class Class1
     {
         //Constructor
-        public Class1() { }
+        public Class1() {}
+        // add function in class1
+        public string userName(string user_name)
+        {
+            return user_name;
+        }
+
     }
 }
