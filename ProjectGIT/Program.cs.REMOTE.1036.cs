@@ -5,9 +5,12 @@ using System.Text;
 
 namespace ProjectGIT
 {
-    class Class1
+    class Program
     {
-        //Constructor
-        public Class1() { }
+        static void Main(string[] args)
+        {
+
+
+        }
     }
 }
